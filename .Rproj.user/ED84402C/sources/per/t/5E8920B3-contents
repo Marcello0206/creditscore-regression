@@ -1,0 +1,123 @@
+---
+title: "**UNIVERSIDAD NACIONAL AGRARIA LA MOLINA**"
+author: "**Facultad de Economía y Planificación**"
+date: "**Carrera Profesional de Estadística Informática**"
+output:
+  pdf_document:
+    latex_engine: xelatex
+    toc: false
+    toc_depth: 3
+    number_sections: true
+    fig_caption: true
+geometry: margin=1in
+header-includes:
+  - "\\usepackage{graphicx}"
+  - "\\usepackage{titling}"
+---
+
+```{=tex}
+\begin{center}
+  \thispagestyle{empty}
+  \includegraphics[width=0.3\textwidth]{logo.png}
+  
+  \vspace{1cm}
+  
+  \textbf{\LARGE Título del documento}
+  
+  \vspace{1cm}
+  
+  \Large 
+  
+  Anchante Fernandez, Marcello
+  \vspace{0.5cm}
+  
+  Arroyo Jaimes, Diego
+  \vspace{0.5cm}
+  
+  Cabezudo Meza, Ismael
+  \vspace{0.5cm}
+  
+  Cruzado Petrovich, Mario
+  \vspace{0.5cm}
+  
+  Rios Vera, Sebastian
+  
+  \vspace{1cm}
+  
+  \large 2023
+\end{center}
+```
+
+
+\newpage
+
+\pagenumbering{roman}
+\section*{Dedicatoria}
+Aquí puedes agregar tu dedicatoria.
+
+
+\newpage
+
+\tableofcontents
+
+
+\newpage
+\pagenumbering{arabic}
+# Planteamiento del problema
+
+## Descripción del problema
+
+## Preguntas de investigación
+
+\newpage
+# Marco teórico
+
+\newpage
+# Objetivos
+
+## Objetivo general
+
+## Objetivos específicos
+
+\newpage
+
+# Hipótesis
+
+## Hipótesis general
+
+## Hipótesis específicos
+
+\newpage
+
+# Metodología
+
+## Operacionalización de variables
+
+## Población
+
+## Muestra
+
+## Unidad muestral
+
+## Procedimientos
+
+\newpage
+
+# Resultados
+
+\newpage
+
+# Conclusiones
+
+\newpage
+
+# Referencias
+
+
+
+
+
+
+
+
+

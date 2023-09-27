@@ -1,9 +1,9 @@
 {
     "id": "CA9A2971",
-    "path": "C:/Users/HP/OneDrive - lamolina.edu.pe/Quinto ciclo/Análisis de Regresión/Trabajo Final/Datos/credit profile/Proyecto.R",
+    "path": "C:/Users/HP/OneDrive - lamolina.edu.pe/Estadística Informática/5° Ciclo/Análisis de Regresión/Trabajo Final/credit profile/Proyecto.R",
     "project_path": "Proyecto.R",
     "type": "r_source",
-    "hash": "1681481488",
+    "hash": "2501202907",
     "contents": "",
     "dirty": false,
     "created": 1694997650968.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,0",
-        "scrollLine": "4"
+        "cursorPosition": "27,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1695001286,
+    "lastKnownWriteTime": 1695003520,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695001286569,
+    "last_content_update": 1695003520278,
     "read_only": false,
     "read_only_alternatives": []
 }
